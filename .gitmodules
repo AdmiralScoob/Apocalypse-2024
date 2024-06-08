@@ -1,0 +1,3 @@
+[submodule "slackEmojiBunker"]
+	path = slackEmojiBunker
+	url = .\\slackEmojiBunker\\

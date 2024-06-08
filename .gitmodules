@@ -1,3 +1,7 @@
 [submodule "slackEmojiBunker"]
 	path = slackEmojiBunker
 	url = https://github.com/AdmiralScoob/slackEmojiBunker.git
+
+[submodule "ESP32"]
+	path = ESP32
+	url = https://github.com/AdmiralScoob/ESP32.git
